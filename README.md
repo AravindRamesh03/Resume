@@ -26,7 +26,7 @@ I'm a Cloud & DevOps Engineer passionate about cloud infrastructure, automation,
 
 ### 🤝 Connect With Me
 
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/aravindramesh320)
+- LinkedIn:(https://www.linkedin.com/in/aravindramesh320)
 - Email: aravindramesh203@gmail.com
 
 ⭐ Thanks for visiting my profile!
